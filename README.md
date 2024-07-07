@@ -1,4 +1,4 @@
-# DISCORD BOT DEV
+# Front-end DEV
 
 ## 현황
 ![깃헙 스탯](https://github-readme-stats.vercel.app/api?username=wjdrjsdn11111&show_icons=true&theme=tokyonight)
