@@ -1,9 +1,9 @@
 # DISCORD BOT DEV
 
 ## 현황
-![깃헙 스탯](https://github-readme-stats.vercel.app/api?username=coma3009&show_icons=true&theme=tokyonight)
+![깃헙 스탯](https://github-readme-stats.vercel.app/api?username=wjdrjsdn11111&show_icons=true&theme=tokyonight)
 
-![사용 언어 순위](https://github-readme-stats.vercel.app/api/top-langs/?username=coma3009&layout=compact)
+![사용 언어 순위](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdrjsdn11111&layout=compact)
 ### My Skills
 
 
