@@ -26,5 +26,5 @@
 
 ### 디스코드
 <p>
-    <a href="https://discord.com/users/866297659362246706"><img src="https://img.shields.io/badge/wjdrjsdn11111-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Image" /></a>
+    <a href="https://discord.com/users/1106597679875768352"><img src="https://img.shields.io/badge/wjdrjsdn11111-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Image" /></a>
 </p>
